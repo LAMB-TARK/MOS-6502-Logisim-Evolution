@@ -1,6 +1,8 @@
 # MOS-6502-Logisim-Evolution
 
-for logisim evolution: https://github.com/logisim-evolution/logisim-evolution
+To Run:
+either download logisim evolution from: https://github.com/logisim-evolution/logisim-evolution or run 
+
 
 to run open using logisim evolution 6502_emulation.circ
 
