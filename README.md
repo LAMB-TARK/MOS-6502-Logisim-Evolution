@@ -4,6 +4,10 @@
 
 This repository contains a fully-functional open source rebuild of the classic 6502 microprocessor, in the open source graphical digital logic program LogiSim Evolution.   It is able to run original 6502 programs including samples from the classic 1980s Usbourne Machine Code for Beginners. The rebuild includes all instructions in their specified and documented form (i.e. fixing the ROR bugs as in later produced 6502s).
 
+# Design 
+
+This project consists of multiple components, which can be viewed as sub-circuits within the 6502_Emulation.circ file or accessed individually as .circ files in the components folder of this repository. If you're interested in the design details of these components, I recommend reading Implementation Chapter. 10. of the Emulating_6502.pdf document, submitted as part of my final year dissertation project. Below you can see the example decoder component
+
 ![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/75d48cb8-f29e-46e0-9a97-3143d06062bb)
 
 # To Run
