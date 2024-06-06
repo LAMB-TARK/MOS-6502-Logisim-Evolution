@@ -17,6 +17,8 @@ This project consists of multiple components, which can be viewed as sub-circuit
 4) In the Hex Editor window select the open button in the bottom left, then select any program you whish to run an example Bubble Sort is provided.
 5) In the Main window select simulate in the top left enable ticks or press CTRL T to manual cause a clock tick.
 
+An example of the provided test code can be seen running here: https://youtu.be/1x1AG9O5sLY 
+
 # Learning 6502
 
 If you're interested in learning to write 6502 machine code, I recommend starting with the Requirements and Analysis chapter for an understanding of how 6502 instructions are processed. Next, visit http://www.6502.org/users/obelisk/6502/instructions.html for overview of all possible 6502 instructions. Finally, for example programs written in 6502 assembly, check out the tutorials at 6502.org.
