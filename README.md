@@ -1,5 +1,9 @@
 # MOS-6502-Logisim-Evolution
 
+
+![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/30777a2d-d3a5-49cf-b147-b985a71c33eb)
+
+
 To Run:
 1) either download logisim evolution from: https://github.com/logisim-evolution/logisim-evolution or run Logisim_Evolution.jar
 2) open 6502_Emulation.circ
