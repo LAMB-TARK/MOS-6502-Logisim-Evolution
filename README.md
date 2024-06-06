@@ -1,13 +1,13 @@
 # MOS-6502-Logisim-Evolution
 
-
 ![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/30777a2d-d3a5-49cf-b147-b985a71c33eb)
 
 # Pitch
 
+Welcome to the MOS 6502 Logisim Evolution Emulator project! This repository contains a fully-functional (To The Best of my Knowledge) emulator for the classic 6502 microprocessor, built as part of an undergraduate computer science course. My goal was to understand the inner workings of one of the most influential CPUs in computing history by recreating it in software. Whether you're a student, hobbyist, or seasoned developer, you'll find value in exploring this emulator.
 
 
-To Run:
+# To Run
 1) either download logisim evolution from: https://github.com/logisim-evolution/logisim-evolution or run Logisim_Evolution.jar
 2) open 6502_Emulation.circ
 3) select the RAM comonent then in the properties window at the bottom left select contents: (click to edit)
