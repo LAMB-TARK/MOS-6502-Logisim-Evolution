@@ -23,4 +23,8 @@ If you're interested in learning to write 6502 machine code, I recommend startin
 
 # Project Status and Contributions
 
-This project is still being actively tested and developed however no other major features are expected to be added. Due to this I encourage and would appricate any feedback via Github. If you want to contact me futher please use 25717330@students.lincoln.ac.uk
+This project is still being actively tested and developed however no other major features are expected to be added. Due to this I encourage and would appricate any feedback via Github. If you want to contact me futher please use the following email 25717330@students.lincoln.ac.uk
+
+# Acknowledgments
+
+This project would not have been possible without help and feedback from Prof. Charles Fox and Kristraps Jurkans.
