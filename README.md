@@ -2,9 +2,9 @@
 
 ![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/30777a2d-d3a5-49cf-b147-b985a71c33eb)
 
-# Pitch
+This repository contains a fully-functional open source rebuild of the classic 6502 microprocessor, in the open source graphical digital logic program LogiSim Evolution.   It is able to run original 6502 programs including samples from the classic 1980s Usbourne Machine Code for Beginners.    The rebuild includes all instructions in their specified and documented form (i.e. fixing the ROR bugs as in later produced 6502s).
 
-Welcome to the MOS 6502 Logisim Evolution Emulator project! This repository contains a fully-functional (To The Best of my Knowledge) emulator for the classic 6502 microprocessor, built as part of an undergraduate computer science course. My goal was to understand the inner workings of one of the most influential CPUs in computing history by recreating it in software. Whether you're a student, hobbyist, or seasoned developer, you'll find value in exploring this emulator.
+![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/75d48cb8-f29e-46e0-9a97-3143d06062bb)
 
 # To Run
 1) either download logisim evolution from: https://github.com/logisim-evolution/logisim-evolution or run Logisim_Evolution.jar
