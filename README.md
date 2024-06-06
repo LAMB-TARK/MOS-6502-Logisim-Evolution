@@ -15,7 +15,10 @@ Welcome to the MOS 6502 Logisim Evolution Emulator project! This repository cont
 
 # Design 
 
-This project is comprised of a number of components which can be veiwed as sub-circuits within the 6502_Emulation.circ file or accessed individually as .circ files within the components folder of this repository. If you are intrested in how these componenets were designed I recommend reading the implementation chapter of Emulating
+This project consists of multiple components, which can be viewed as sub-circuits within the 6502_Emulation.circ file or accessed individually as .circ files in the components folder of this repository. If you're interested in the design details of these components, I recommend reading the implementation chapter of the Emulating_6502.pdf document, submitted as part of my final year dissertation project.
+
+# Learning 6502
+
 
 for a deeper explanation of the 6502 instruction set vist http://www.6502.org/users/obelisk/6502/instructions.html
 
