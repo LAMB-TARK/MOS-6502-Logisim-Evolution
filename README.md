@@ -9,6 +9,11 @@ This repository contains a fully-functional open source rebuild of the classic 6
 
 This project consists of multiple components, which can be viewed as sub-circuits within the 6502_Emulation.circ file or accessed individually as .circ files in the components folder of this repository. If you're interested in the design details of these components, I recommend reading Implementation Chapter. 10. of the Emulating_6502.pdf document, submitted as part of my final year dissertation project.
 
+These include smaller components such as the clock and process status register.
+
+![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/64023d48-b763-4d00-a09c-2cf08d627a33)
+
+
 ![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/75d48cb8-f29e-46e0-9a97-3143d06062bb)
 
 # Example Execution
