@@ -1,8 +1,7 @@
 # MOS-6502-Logisim-Evolution
-
-<p align="center">
+<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
 ![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/cf76c921-c6a3-4ee0-a79a-d778ddf6ceae)
-</p>
+
 
 ![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/30777a2d-d3a5-49cf-b147-b985a71c33eb)
 
