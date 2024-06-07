@@ -13,9 +13,11 @@ This chapter outlines first the design and development of smaller components lik
 
 ![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/2cc31422-989f-4480-9804-ac49a98d843d)
 
-Then progressing through the fetch, decode, execute cycle with the implementation of a decoder capable of aactivating pins to trigger the appropriate instruction and 
+Then progressing through the fetch, decode, execute cycle with the implementation of a decoder capable of activating pins to trigger the appropriate instruction and addressing mode based on a 8-bit input
 
 ![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/75d48cb8-f29e-46e0-9a97-3143d06062bb)
+
+
 
 # Example Execution
 
