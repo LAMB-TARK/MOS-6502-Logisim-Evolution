@@ -11,14 +11,16 @@ This project consists of multiple components, which can be viewed as sub-circuit
 
 ![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/75d48cb8-f29e-46e0-9a97-3143d06062bb)
 
+# Example Execution
+
+an example of this project executing an 8-bit bubble sort can be seen here: https://youtu.be/1x1AG9O5sLY 
+
 # To Run
 1) either download logisim evolution from: https://github.com/logisim-evolution/logisim-evolution or run Logisim_Evolution.jar
 2) within Logisim open 6502_Emulation.circ
 3) select the RAM comonent then in the properties window at the bottom left select contents: (click to edit)
 4) In the Hex Editor window select the open button in the bottom left, then select any program you whish to run an example Bubble Sort is provided.
 5) In the Main window select simulate in the top left enable ticks or press CTRL T to manual cause a clock tick.
-
-An example of the provided test code can be seen running here: https://youtu.be/1x1AG9O5sLY 
 
 # Learning 6502
 
