@@ -4,6 +4,10 @@
 
 This repository contains a fully-functional open source rebuild of the classic 6502 microprocessor, in the open source graphical digital logic program LogiSim Evolution.   It is able to run original 6502 programs including samples from the classic 1980s Usbourne Machine Code for Beginners. The rebuild includes all instructions in their specified and documented form (i.e. fixing the ROR bugs as in later produced 6502s). Your 6502 programs can be run live using LogiSim's digital logic simulator, or LogiSim can export the design to Verilog and transferred to FPGA, or to ASIC using a multi project wafer fab service such as TinyTapeout.
 
+# Example Execution
+
+an example of this project executing an 8-bit bubble sort can be seen here: https://youtu.be/1x1AG9O5sLY 
+
 
 # Design 
 
@@ -25,11 +29,6 @@ Finally this chapter discusses the design of the execute component capable of ex
 
 ![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/ad2937f2-20c4-48f6-bfc9-e63557b727b0)
 
-
-
-# Example Execution
-
-an example of this project executing an 8-bit bubble sort can be seen here: https://youtu.be/1x1AG9O5sLY 
 
 # To Run
 1) either download logisim evolution from: https://github.com/logisim-evolution/logisim-evolution or run Logisim_Evolution.jar
