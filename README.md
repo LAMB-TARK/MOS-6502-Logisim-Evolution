@@ -7,15 +7,20 @@ This repository contains a fully-functional open source rebuild of the classic 6
 
 # Design 
 
-This project consists of multiple components, which can be viewed as sub-circuits within the 6502_Emulation.circ file or accessed individually as .circ files in the components folder of this repository. If you're interested in the design details of these components, I recommend reading Implementation Chapter. 10. of the Emulating_6502.pdf document, submitted as part of my final year dissertation project.
+This project consists of multiple components, which can be viewed as sub-circuits within the 6502_Emulation.circ file or accessed individually as .circ files in the components folder of this repository. If you're interested in the design details of these components and how this project is able to emulate the 6502 instruction set, I recommend reading Implementation Chapter. 10. of the Emulating_6502.pdf document, submitted as part of my final year dissertation project.
 
-This chapter outlines first the design and development of smaller components like the clock and program counter.
+This chapter first outlines the design and development of smaller components like the clock and program counter.
 
 ![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/2cc31422-989f-4480-9804-ac49a98d843d)
 
-Then progressing through the fetch, decode, execute cycle with the implementation of a decoder capable of activating pins to trigger the appropriate instruction and addressing mode based on a 8-bit input
+Then progressing through the fetch, decode, execute cycle starting with the implementation of a decoder capable of activating pins to trigger the appropriate instruction and addressing mode based on a 8-bit input
 
 ![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/75d48cb8-f29e-46e0-9a97-3143d06062bb)
+
+During the decode step this project must retreive a value indicated by the current addressing mode used during execution using the Retreive Component. This Implementation Chapter. 10. describes the design proccess of this component and the the terchinques required to debug and synchronize these components.
+
+![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/4236128e-c33d-4e18-9ed2-7058c8ca20fd)
+
 
 
 
