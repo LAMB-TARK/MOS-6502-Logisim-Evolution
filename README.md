@@ -40,15 +40,9 @@ an example of this project executing an 8-bit bubble sort can be seen here: http
 
 # Learning 6502
 
-![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/0e3f0d4b-785f-4910-959c-851178425ef5)
-
-
 If you're interested in learning to write 6502 machine code, I recommend starting with the Requirements and Analysis chapter for an understanding of how 6502 instructions are processed. Next, visit http://www.6502.org/users/obelisk/6502/instructions.html for overview of all possible 6502 instructions. Finally, for example programs written in 6502 assembly, check out the tutorials at http://www.6502.org/source/.
 
 # Project Status and Contributions
-
-![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/561f4ab7-74fa-4d8d-ab76-8cb152c5703a)
-
 
 This project is still being actively tested and developed however no other major features are expected to be added. Due to this I encourage and would appricate any feedback via Github. If you want to contact me futher please use the following email 25717330@students.lincoln.ac.uk
 
