@@ -21,6 +21,9 @@ During the decode step this project must retreive a value indicated by the curre
 
 ![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/4236128e-c33d-4e18-9ed2-7058c8ca20fd)
 
+Finally this chapter discusses the design of the execute component capable of executing any of the instructions in the 6502 instruction set 
+
+![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/ad2937f2-20c4-48f6-bfc9-e63557b727b0)
 
 
 
