@@ -47,6 +47,9 @@ If you're interested in learning to write 6502 machine code, I recommend startin
 
 # Project Status and Contributions
 
+![image](https://github.com/LAMB-TARK/MOS-6502-Logisim-Evolution/assets/152881313/561f4ab7-74fa-4d8d-ab76-8cb152c5703a)
+
+
 This project is still being actively tested and developed however no other major features are expected to be added. Due to this I encourage and would appricate any feedback via Github. If you want to contact me futher please use the following email 25717330@students.lincoln.ac.uk
 
 # Acknowledgments
